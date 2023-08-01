@@ -1,0 +1,26 @@
+html {
+    background-color: rgb(100, 60, 100)
+}
+
+h1{
+ color: white;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ text-align: center;
+}
+
+.Desc{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.List{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+
+a:-webkit-any-link {
+    color: white;
+    cursor: pointer;
+}
